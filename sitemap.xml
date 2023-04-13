@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/tags/c&#43;&#43;/</loc>
+  </url><url>
+    <loc>/archives/c-allocator-%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/posts/</loc>
+  </url>
+</urlset>
